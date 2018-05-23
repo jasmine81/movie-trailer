@@ -1,5 +1,4 @@
 #!usr/bin/env python
-print("Content-type=text/html \n")
 import media
 import fplace
 liberty=media.Movie("Statue of Liberty","https://encrypted-tbn0.gstatic.com/grid-items?q=tbn:ANd9GcQkVuw6z5E3xuFeVXDcveZGHDFcoSp_EbfAutt4nFgvn596s1Vv","https://www.youtube.com/embed/kOAS3bmtSAM")
