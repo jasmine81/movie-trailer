@@ -4,6 +4,7 @@ import webbrowser
 
 class Movie():
     VALID_RATINGS = ["EXCELLENT", "GOOD", "BAD", "AVERAGE"]
+    # defining constructor to  initialise the passed values
     def __init__(self, movie_title, poster_image, trailer_youtube) :
         self.title = movie_title
         self.poster_image_url = poster_image
