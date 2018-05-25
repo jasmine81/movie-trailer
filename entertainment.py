@@ -1,6 +1,7 @@
 #!usr/bin/env python
-import media
+import media  # importing packages
 import fplace
+#creating variables 
 liberty = media.Movie(
     "Statue of Liberty",
     "https://encrypted-tbn0.gstatic.com/grid-items?q=tbn:ANd9GcQkVuw6z5E3x"
@@ -36,5 +37,7 @@ opera = media.Movie(
     "https://upload.wikimedia.org/wikipedia/commons"
     "/a/a1/Sydney_Opera_House_Night.jpg",
     "https://www.youtube.com/embed/F5CPHRJwdZ0")
-Movies = [liberty, eiffel, bigben, pisa, ggb, opera]
+Movies = [liberty, eiffel, bigben, pisa, ggb, opera]  # creating a list
+# used to display videos related to images in webpage
+# calling function by passing movies as parameter
 fplace.open_movies_page(Movies)
