@@ -89,7 +89,7 @@ main_page_content = '''	<body>
 					<img src="https://encrypted-tbn0.gstatic.com/grid-items?q=tbn:ANd9GcTBblePFpfGNoAOKfRthU-tz6QUFLllhpC0KKRPuin0CRQI36u3" alt="Eiffel Tower">
 					<figcaption>Eiffel Tower</figcaption>
 				</div>
-				<div class="img3" onclick="changeVideo('TyXrHfz9lAY')">
+				<div class="img3" onclick="changeVideo('_Elffjsjbio"')">
 					<img src="https://encrypted-tbn0.gstatic.com/grid-items?q=tbn:ANd9GcQh7V89xCCCCniErs6LSOsUC_44FDdda0Eb-aPpF5MrDZ2av8Re" alt="Big Ben">
 					<figcaption>Big Ben</figcaption>
 				</div>
