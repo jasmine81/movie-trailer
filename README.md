@@ -24,7 +24,7 @@ By using CSS
 		ii) Image attributes like image hover, padding, height, width, shadow.
 Clone the directory
 Navigate to the directory cd repository_name
-Run python entertainment_center.py
+Run python entertainment.py
 IDLE:
 Open IDLE
 In the menu bar click on Run -> Run Module or press F5 on your keyboard
