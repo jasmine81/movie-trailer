@@ -96,7 +96,7 @@ main_page_content = '''<body>
                 "3" alt="Eiffel Tower">
                 <figcaption>Eiffel Tower</figcaption>
                 </div>
-                <div class="img3" onclick="changeVideo('fKmpld1PoPQ')">
+                <div class="img3" onclick="changeVideo('TyXrHfz9lAY')">
                 <img src="https://encrypted-tbn0.gstatic.com/grid-items?"
                 "q=tbn:ANd9GcQh7V89xCCCCniErs6LSOsUC_44FDdda0Eb-aPpF5M"
                 "rDZ2av8Re" alt="Big Ben">
