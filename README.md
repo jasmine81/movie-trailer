@@ -22,12 +22,14 @@ By using CSS
 	c) Attributes for different subparts of our webpage like border attributes, image attribtutes, attributes for particular tags. 
 		i) Border attributes include border-color,border-radius.
 		ii) Image attributes like image hover, padding, height, width, shadow.
-Clone the directory
-Navigate to the directory cd repository_name
-Run python entertainment.py
-IDLE:
-Open IDLE
-In the menu bar click on Run -> Run Module or press F5 on your keyboard
+RUNNING:
+    Terminal:   
+       Clone the directory
+       Navigate to the directory cd repository_name
+       Run python entertainment.py
+    IDLE:
+       Open IDLE
+       In the menu bar click on Run -> Run Module or press F5 on your keyboard
 All CSS code is in inside "style tag" of HTML head part
 All content related to webpage is inside body tag of HTML part
 i also used some inline CSS for some convinience.
